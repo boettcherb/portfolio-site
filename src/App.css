@@ -1,0 +1,14 @@
+.about-text {
+  max-width: 800px;
+  font-size: 1.2rem;
+}
+
+.project-card-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+section {
+  scroll-margin-top: 5rem;
+}
